@@ -11,6 +11,7 @@
 - 형태: Web MVP
 - Frontend: Next.js App Router
 - Deployment: Vercel의 기존 `cheokcheok-doctor` 프로젝트
+- Git deployment: `main` 브랜치 기준 자동 배포 연결
 - Database / analytics: Supabase 연동 예정
 
 ## MVP 제1가설
